@@ -1,0 +1,29 @@
+body{
+  text-align: center;
+  background-color: #C9EEFF;
+
+}
+.Container{
+  background-color: white;
+  border: 5px solid white;
+  border-radius: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 215px;
+}
+.Q-scanner{
+  border-radius: 4px;
+  margin-left: 8px;
+  margin-top: 8px;
+  width: 200px;
+  height: 50%;
+  position: relative;
+}
+
+
+.attribution { font-size: 11px; text-align: center;
+}
+
+.attribution a { color: hsl(228, 45%, 44%);
+}
